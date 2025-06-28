@@ -8,7 +8,7 @@ export const portfolioData = {
         projects: [
             {
                 id: 1,
-                img: "/assets/project.png",
+                img: "https://envs.sh/24t.jpg/HGBOTZ.jpg",
                 title: "Money Tracker App",
                 subtitle: "Track your finances with clarity and control.",
                 desc: "Money Tracker is a modern web application that helps users monitor income and expenses effortlessly. Featuring a minimalist interface, dark mode toggle, and intuitive dashboard, it’s built to encourage financial awareness for everyday users. Data can be synced via Supabase or stored locally.",
@@ -17,7 +17,7 @@ export const portfolioData = {
             },
             {
                 id: 2,
-                img: "/assets/project.png",
+                img: "https://envs.sh/24t.jpg/HGBOTZ.jpg",
                 title: "Chatbot Assistant",
                 subtitle: "A chatbot that evolves with every conversation.",
                 desc: "This chatbot is a React-based assistant that learns from user input and stores knowledge using a simple Express + JSON backend. It’s designed to grow smarter over time and simulate natural, human-like dialogue. Ideal for basic AI training or personalized assistants.",
@@ -26,7 +26,7 @@ export const portfolioData = {
             },
             {
                 id: 3,
-                img: "/assets/project.png",
+                img: "https://envs.sh/24t.jpg/HGBOTZ.jpg",
                 title: "Personal Portfolio Website",
                 subtitle: "Your work deserves a beautiful showcase.",
                 desc: "A sleek and responsive personal portfolio built with Vite and Tailwind CSS. This site features categorized project sections, certificates, and a dynamic tech stack. Optimized for both desktop and mobile experiences, it reflects professional branding with clean code.",
