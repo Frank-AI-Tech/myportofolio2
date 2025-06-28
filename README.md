@@ -1,4 +1,4 @@
-Got it! Here’s an upgraded, fancier README.md for myportofolio2 — with extra badges, Vercel deploy status, fork button, and a polished style:
+
 
 # 🚀✨ My Portfolio 2
 
